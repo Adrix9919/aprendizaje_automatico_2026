@@ -1,0 +1,50 @@
+[
+    {
+        "id_cliente":1,
+        "nombre":"Ana García",
+        "ciudad":"Ushuaia",
+        "edad":29
+    },
+    {
+        "id_cliente":2,
+        "nombre":"Lucas Fernández",
+        "ciudad":"Buenos Aires",
+        "edad":34
+    },
+    {
+        "id_cliente":3,
+        "nombre":"Sofía Martínez",
+        "ciudad":"Córdoba",
+        "edad":26
+    },
+    {
+        "id_cliente":4,
+        "nombre":"Mateo López",
+        "ciudad":"Rosario",
+        "edad":31
+    },
+    {
+        "id_cliente":5,
+        "nombre":"Valentina Torres",
+        "ciudad":"Mendoza",
+        "edad":24
+    },
+    {
+        "id_cliente":6,
+        "nombre":"Nicolás Rodríguez",
+        "ciudad":"Ushuaia",
+        "edad":38
+    },
+    {
+        "id_cliente":7,
+        "nombre":"Camila Sosa",
+        "ciudad":"La Plata",
+        "edad":27
+    },
+    {
+        "id_cliente":8,
+        "nombre":"Tomás Acosta",
+        "ciudad":"Salta",
+        "edad":42
+    }
+]
