@@ -1,4 +1,4 @@
-**Parcial de Aprendizaje Automático — Clasificación de marketing bancario**
+**Actividad Semana 06 — Clasificación de marketing bancario**
 
 En este trabajo se utilizan dos modelos de clasificación para predecir si un cliente contratará un depósito a plazo: Regresión Logística y Árbol de Decisión.
 
